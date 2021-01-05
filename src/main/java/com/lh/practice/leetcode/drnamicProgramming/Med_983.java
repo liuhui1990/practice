@@ -1,4 +1,4 @@
-package com.lh.practice.drnamicProgramming;
+package com.lh.practice.leetcode.drnamicProgramming;
 
 
 import com.lh.practice.utils.TestUtils;
